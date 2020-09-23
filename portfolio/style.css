@@ -254,7 +254,7 @@ body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
 
 .intro {
         padding: 80px 100px;
-        height: 75vh;
+        height: 70vh;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
