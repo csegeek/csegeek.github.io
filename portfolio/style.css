@@ -200,7 +200,7 @@ body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
 
 .content {
     position: absolute;
-    top: 35%;
+    top: 25%;
     overflow:hidden;
     font-size: 35px;
     line-height: 50px;
