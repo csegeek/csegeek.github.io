@@ -1,2 +1,2 @@
 # csegeek.github.io
-# Hosted by :Vikash Kumar Singh.
+# LINK:https://csegeek.github.io/portfolio/
