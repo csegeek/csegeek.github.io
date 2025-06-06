@@ -1,2 +1,2 @@
 # csegeek.github.io
-# LINK:https://csegeek.github.io/portfolio/
+# LINK:https://csegeek.github.io
